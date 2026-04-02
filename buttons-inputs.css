@@ -1,0 +1,24 @@
+/*Add this to your illiad/custom.css file */
+
+/* Added for WCAG input/target minimum height and width */
+
+button, input, optgroup, select, textarea {
+	min-height:44px;
+	min-width:44px;		
+}
+
+
+/* Added for WCAG input/target minimum height and width */
+checkbox,input[type=checkbox] {
+ 	min-height:24px;
+	min-width:24px;	
+	margin-top: .1rem;
+	margin-left: -2rem; 
+}
+
+input[type=radio]{
+ 	min-height:24px;
+	min-width:24px;	
+	margin-top: 1rem;	
+	margin-left: 1rem; 
+}
