@@ -1,0 +1,30 @@
+<footer class="foot" role="contentinfo" aria-labelledby="footer-heading">
+  <h2 id="footer-heading">Contact Resource Sharing</h2>
+  <a href="mailto:library-resource-sharing@hvcc.edu">library-resource-sharing@hvcc.edu</a>
+    <span class="sep" aria-hidden="true"> | </span>
+    <a href="tel:5186297387">(518) 629-7387</a>
+    <span class="sep" aria-hidden="true"> | </span>
+    <a href="<#ACTION action='10' form='12'>" target="_blank" rel="noopener noreferrer">
+      FAQ
+    </a>
+    <span class="sep" aria-hidden="true"> | </span>
+    <a href="https://www.hvcc.edu/library/about/hours.html" target="_blank" rel="noopener noreferrer">
+      Library Hours
+    </a>
+  </p>
+
+  <div>
+    Powered by
+    <a href="<#ACTION action='10' form='1'>">ILLiad</a>
+  </div>
+
+  <div>
+    &copy; 2024
+    <a href="http://www.atlas-sys.com">Atlas Systems, Inc.</a>
+    All Rights Reserved.
+  </div>
+
+  <div>
+    <a href="<#ACTION action='10' form='3'>">Site Map</a>
+  </div>
+</footer>
