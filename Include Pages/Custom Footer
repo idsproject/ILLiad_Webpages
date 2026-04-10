@@ -1,1 +1,33 @@
+<footer class="foot" role="contentinfo" aria-labelledby="footer-heading">
+  <h2 id="footer-heading">Contact Interlibrary Loan</h2>
+  <p>
+    <a href="mailto:your.email@library.edu">
+      your.email@library.edu
+    </a>
+    <span class="sep" aria-hidden="true"> | </span>
+    <a href="tel:9999999999"> (999) 999-9999</a>
+    <span class="sep" aria-hidden="true"> | </span>
+    <a href="<#ACTION action='10' form='12'>" target="_blank" rel="noopener noreferrer">
+      FAQ
+    </a>
+    <span class="sep" aria-hidden="true"> | </span>
+    <a href="https://your.librarygiude.com/yourlibrarylink" target="_blank" rel="noopener noreferrer">
+      Interlibrary Loan Help Guide
+    </a>
+  </p>
 
+  <div>
+    Powered by
+    <a href="<#ACTION action='10' form='1'>">ILLiad</a>
+  </div>
+
+  <div>
+    &copy; 2024
+    <a href="http://www.atlas-sys.com">Atlas Systems, Inc.</a>
+    All Rights Reserved.
+  </div>
+
+  <div>
+    <a href="<#ACTION action='10' form='3'>">Site Map</a>
+  </div>
+</footer>
