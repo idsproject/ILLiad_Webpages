@@ -1,3 +1,16 @@
+<!--Custom CSS for FAQ Accordion Q&A. Add the following 8 lines to your Custom CSS HTML-->
+/* =========================================
+   FAQ
+   ========================================= */
+summary:focus,
+summary:focus-visible {
+  outline: 3px solid #08415c;
+  outline-offset: 3px;
+}
+
+
+<!--FAQ Accordion Q&A (Atlas Default Questions). Add the following to your FAQ HTML-->
+
 <!DOCTYPE html>
 <html lang="en-US">
 
